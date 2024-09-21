@@ -134,4 +134,10 @@ footer p {
 
 footer a {
     text-decoration: none;
+    color: black;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: blue;
 }
