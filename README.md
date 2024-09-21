@@ -35,6 +35,6 @@ cd my-portfolio-website
 
 ## Contact
 - Feel free to reach out to me via the following platforms:
--- Email: b3njaminbaya@gmail.com
--- GitHub: github.com/benjaminmweribaya
--- LinkedIn: linkedin.com/in/benjamin-mweri-baya
+- Email: b3njaminbaya@gmail.com
+- GitHub: github.com/benjaminmweribaya
+- LinkedIn: linkedin.com/in/benjamin-mweri-baya
