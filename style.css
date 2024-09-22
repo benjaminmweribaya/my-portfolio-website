@@ -22,6 +22,13 @@ body {
 }
 
 /* Style the heading */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: white;
+}
 header h1 {
     color: black;
     font-size: 2.5em;
@@ -145,5 +152,32 @@ footer a {
 
 footer a:hover {
     text-decoration: underline;
+    color: blue;
+}
+
+nav {
+    background-color: white;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
     color: blue;
 }
